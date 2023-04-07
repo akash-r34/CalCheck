@@ -26,6 +26,6 @@ A project done for the course CSE3020 - Data Visualization under <b>Dr. Parvathi
 <h2>Data Visualization</h2>
 
 <p><b>Software used: Tableau</b><br>
-  You can find all the visualizations done in this project here -> <a href="https://github.com/akash-r34/CalCheck/tree/main/Dataset](https://github.com/akash-r34/CalCheck/tree/main/Visualization%20images">Visualization images</a><br>
-  You can find all the Tableau workbooks used in this project here -> <a href="https://github.com/akash-r34/CalCheck/tree/main/Dataset](https://github.com/akash-r34/CalCheck/tree/main/Visualization%20images)](https://github.com/akash-r34/CalCheck/tree/main/Data%20Visualization%20-%20Tableau">Visualization workbooks</a><br>
+  You can find all the visualizations done in this project here -> <a href="https://github.com/akash-r34/CalCheck/tree/main/Visualization%20images">Visualization images</a><br>
+  You can find all the Tableau workbooks used in this project here -> <a href="https://github.com/akash-r34/CalCheck/tree/main/Data%20Visualization%20-%20Tableau">Visualization workbooks</a><br>
   </p>
