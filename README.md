@@ -29,3 +29,31 @@ A project done for the course CSE3020 - Data Visualization under <b>Dr. Parvathi
   You can find all the visualizations done in this project here -> <a href="https://github.com/akash-r34/CalCheck/tree/main/Visualization%20images">Visualization images</a><br>
   You can find all the Tableau workbooks used in this project here -> <a href="https://github.com/akash-r34/CalCheck/tree/main/Data%20Visualization%20-%20Tableau">Visualization workbooks</a><br>
   </p>
+
+<h2>CalCheck app</h2>
+<p>--COMPLETE APP DESCRIPTION HERE--</p>
+
+<h2>Connect Tableau with Calcheck</h2>
+<blockquote><b>Note: This part of our project is still under construction. We will add this in future work.</b></blockquote>
+<p>
+To connect CalCheck with Tableau, we will the Tableau JavaScript API, which allows us to embed visualizations in web pages and applications.
+
+Here are the steps we will use to connect a CalCheck app with Tableau:
+<ol>
+<li>Publish your Tableau visualization: You can publish your Tableau visualization to Tableau Server, Tableau Online, or Tableau Public, depending on your requirements.</li>
+
+<li>Get the Tableau JavaScript API: You can get the Tableau JavaScript API from the Tableau Developer Portal.</li>
+
+<li>Integrate the Tableau JavaScript API in your Flutter app: You can use a WebView in Flutter to display the Tableau visualization. The WebView will load an HTML file that includes the Tableau JavaScript API.</li>
+
+<li>Create a Tableau viz: You can create a Tableau viz using the Tableau JavaScript API. You can pass parameters to the viz, such as filters and values.</li>
+
+<li>Connect the Flutter app to the Tableau viz: You can use the postMessage() method of the WebView to send messages to the Tableau viz, and receive messages from the viz.</li>
+
+<li>Display the Tableau viz in your Flutter app: You can display the Tableau viz in your Flutter app using the WebView. The Tableau viz will be responsive, and will adjust to the size of the WebView.</li>
+</ol>
+<blockquote>Note that embedding Tableau visualizations in a mobile app can be challenging, and may require advanced JavaScript and Flutter skills. We may also need to optimize the Tableau viz for mobile devices, by using appropriate chart types and layouts.</blockquote>
+</p>
+
+<h2>Conclusion</h2>
+<p></p>
