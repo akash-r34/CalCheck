@@ -23,3 +23,9 @@ A project done for the course CSE3020 - Data Visualization under <b>Dr. Parvathi
 
 <p>Finally, we use a <a href="https://github.com/akash-r34/CalCheck/blob/main/Diet_recommendation.ipynb">python code</a> for assigning diet IDs to users based on their minimum nutrient intake level. The code reads in two datasets, the first being a user macros dataset and the second being a diet plan dataset containing diet IDs and their corresponding macro levels. The code then aggregates the diet plans by their macro levels and creates a heatmap for better interpretation. The aggregated data is then converted into a pandas dataframe. Next, the code assigns recommended diet IDs to all users based on their minimum macro levels intake. If the minimum macro levels intake of the user is less than or equal to a diet plan's macro level, then recommend that plan to the user. Finally, the resulting dataset is exported as an Excel file to create a <a href="https://github.com/akash-r34/CalCheck/blob/main/Dataset/Diet_recommendation_based_on_user.xlsx">User diet recommendation dataset</a>.</p>
 
+<h2>Data Visualization</h2>
+
+<p><b>Software used: Tableau</b><br>
+  You can find all the visualizations done in this project here -> <a href="https://github.com/akash-r34/CalCheck/tree/main/Dataset](https://github.com/akash-r34/CalCheck/tree/main/Visualization%20images">Visualization images</a><br>
+  You can find all the Tableau workbooks used in this project here -> <a href="https://github.com/akash-r34/CalCheck/tree/main/Dataset](https://github.com/akash-r34/CalCheck/tree/main/Visualization%20images)](https://github.com/akash-r34/CalCheck/tree/main/Data%20Visualization%20-%20Tableau">Visualization workbooks</a><br>
+  </p>
