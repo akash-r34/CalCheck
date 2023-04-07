@@ -1,4 +1,4 @@
-# Diet-planner-app
+# CalCheck: A Diet planner app
 
 A project done for the course CSE3020 - Data Visualization under <b>Dr. Parvathi. R</b>
 
