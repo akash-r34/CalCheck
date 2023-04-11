@@ -1,4 +1,4 @@
-# CalCheck: A Diet planner app
+# CalCheck: A Diet planner system for your BMI
 
 A project done for the course CSE3020 - Data Visualization under <b>Dr. Parvathi. R</b>
 
