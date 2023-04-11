@@ -10,7 +10,7 @@ A project done for the course CSE3020 - Data Visualization under <b>Dr. Parvathi
 
 <h2>Abstract</h2>
 
-<p>This project aims to develop a mobile app that assists users in achieving their health and fitness goals by recommending default diets based on their BMI and enabling them to build customized diets. The app will also provide users with insights into the nutrient content of various foods through visualizations, helping them make informed decisions about their dietary choices. To achieve this, the app will leverage Tableau to create interactive and informative visualizations of food and nutrient data. The app will be designed to be user-friendly and accessible to people of all ages and backgrounds. By providing users with personalized diet recommendations and valuable nutritional information, the app aims to help users make healthier choices and improve their overall health and well-being.</p>
+<p>This project aims to develop a system that assists users in achieving their health and fitness goals by recommending default diets based on their BMI and enabling them to build customized diets. The system will also provide users with insights into the nutrient content of various foods through visualizations, helping them make informed decisions about their dietary choices. To achieve this, the system will leverage Tableau to create interactive and informative visualizations of food and nutrient data. The system will be designed to be user-friendly and accessible to people of all ages and backgrounds. By providing users with personalized diet recommendations and valuable nutritional information, the app aims to help users make healthier choices and improve their overall health and well-being.</p>
 
 
 <h2>Dataset</h2>
@@ -30,15 +30,16 @@ A project done for the course CSE3020 - Data Visualization under <b>Dr. Parvathi
   You can find all the Tableau workbooks used in this project here -> <a href="https://github.com/akash-r34/CalCheck/tree/main/Data%20Visualization%20-%20Tableau">Visualization workbooks</a><br>
   </p>
 
-<h2>CalCheck app</h2>
+<h2>Building an app from this system</h2>
+<blockquote><b>Note: This part of our project is still under construction. We will add this in future work.</b></blockquote>
+<h3>CalCheck app</h3>
 <p>The CalCheck app is a useful tool for individuals looking to track their calorie intake and monitor their progress towards their weight loss or fitness goals. The project includes a mobile application developed using Flutter, a web application developed using Flask, and a database to store user information.
 
 The mobile application allows users to track their calorie intake by scanning food items or manually entering their food intake. The app also provides users with personalized recommendations based on their weight, height, and activity level.
 
 The application provides a dashboard for users to view their progress towards their goals and visualize their calorie intake through charts and graphs.</p>
 
-<h2>Connect Tableau with Calcheck</h2>
-<blockquote><b>Note: This part of our project is still under construction. We will add this in future work.</b></blockquote>
+<h3>Connect Tableau with Calcheck</h3>
 <p>
 To connect CalCheck with Tableau, we will the Tableau JavaScript API, which allows us to embed visualizations in web pages and applications.
 
@@ -60,8 +61,8 @@ Here are the steps we will use to connect a CalCheck app with Tableau:
 </p>
 
 <h2>Conclusion</h2>
-<p>From the visualization results we can see that this app is well-designed and user-friendly, and it can be a valuable tool for anyone looking to improve their health and fitness. The visualizations used in the CalCheck project are effective in presenting the user's calorie intake and macronutrient breakdown in an easy-to-understand format, and the interactive features allow for a more detailed analysis of the data. However, future improvements could include integrating more advanced features such as machine learning algorithms for more personalized recommendations and adding social sharing features to encourage users to share their progress with friends and family</p>
+<p>From the visualization results we can see that this system is well-designed and user-friendly, and it can be a valuable tool for anyone looking to improve their health and fitness. The visualizations used in the CalCheck project are effective in presenting the user's calorie intake and macronutrient breakdown in an easy-to-understand format, and the interactive features allow for a more detailed analysis of the data. However, future improvements could include integrating more advanced features such as machine learning algorithms for more personalized recommendations and adding social sharing features to encourage users to share their progress with friends and family</p>
 
 <h2>Future work</h2>
-<p><b>'Connect Tableau with Calcheck'</b> section will be completed in future.
+<p><b>'Building an app from this system'</b> section will be completed in future.
 We also plan on integrating more advanced features such as machine learning algorithms for more personalized recommendations and adding social sharing features to encourage users to share their progress with friends and famil</p>
