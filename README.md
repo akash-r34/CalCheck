@@ -1,6 +1,4 @@
 # CalCheck: A Diet planner system for your BMI
-You can view the final report here -> <a href="https://github.com/akash-r34/CalCheck/blob/main/CSE3020_JCOMPONENT_FINAL_REPORT.pdf"><b>FINAL REPORT</b></a><br>
-A project done for the course CSE3020 - Data Visualization under <b>Dr. Parvathi. R</b>
 
 <h3>Team members</h3>
 <ul>
